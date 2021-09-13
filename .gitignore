@@ -51,6 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 .vscode/
-Ecercício.csproj
-.obj
-.bin
+Exerc\303\255cio.csproj
+.obj/
+.bin/
